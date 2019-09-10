@@ -1,3 +1,3 @@
 # HuskyFollow
  - 演示
- ![演示](https://raw.githubusercontent.com/muyangren907/HuskyFollow/master/screenshot/screenshot.gif?token=AHHXZTOQVYOHRZ3KWMDYCKS5QCKPA)
+ ![演示](https://github.com/muyangren907/HuskyFollow/raw/master/screenshot/screenshot.gif)
