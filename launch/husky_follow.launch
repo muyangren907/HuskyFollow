@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+
+<launch>
+    <include file="$(find husky_gazebo)/launch/husky_empty_world.launch">
+        <arg name="laser_enabled" value="true"/>
+    </include>
+    <node pkg="husky_follow" type="husky_follow_node" name="huskyFollow" output="screen" />
+    <node pkg="rviz" type="rviz" name="rviz"/>
+</launch>
