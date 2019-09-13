@@ -17,7 +17,7 @@
   ```
 > 运行
   ```
-  $ roslaunch HuskyFollow husky_follow.launch
+  $ roslaunch husky_follow husky_follow.launch
   ```
   
 - 演示
