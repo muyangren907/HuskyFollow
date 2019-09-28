@@ -17,6 +17,7 @@
   ```
 > 运行
   ```
+  $ source devel/setup.bash
   $ roslaunch husky_follow husky_follow.launch
   ```
   
